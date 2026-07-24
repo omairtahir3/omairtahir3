@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Omair Tahir
 
-BS Computer Science — Comsats University Islamabad (CGPA: 3.48)  
+BS Computer Science — Comsats University Islamabad (CGPA: 3.50)  
 Passionate about Artificial Intelligence, Computer Vision, and scalable Full-Stack architectures.  
 Interested in building end-to-end deep learning pipelines, RAG systems, and robust production-ready web applications.
 
