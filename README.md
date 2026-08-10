@@ -2,7 +2,7 @@
   <h1>Muhammad Omair Tahir</h1>
   <h3>AI Engineer & Full-Stack Developer</h3>
   <p>
-    <b>BS Computer Science — Comsats University Islamabad (CGPA: 3.50)</b>
+    <b>BS Computer Science — Comsats University Islamabad (CGPA: 3.51)</b>
   </p>
   <p>
     <a href="mailto:omairutm@gmail.com">omairutm@gmail.com</a> • 
