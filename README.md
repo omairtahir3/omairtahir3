@@ -7,7 +7,6 @@
   <p>
     <a href="mailto:omairutm@gmail.com">omairutm@gmail.com</a> • 
     <a href="https://www.linkedin.com/in/omair-tahir-82053b27b/">LinkedIn</a> • 
-    <a href="https://github.com/omairtahir3">GitHub</a>
   </p>
 </div>
 
